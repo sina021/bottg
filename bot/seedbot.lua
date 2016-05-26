@@ -223,6 +223,8 @@ function create_config( )
     "owners",
     "arabic_lock",
     "set",
+    "badword",
+    "linksup",
     "file",
     "plugins",
     "get",
